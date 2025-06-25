@@ -191,6 +191,6 @@ If buttons and LEDs appear swapped, adjust channel numbers in code:
 
 ---
 
-**Author**: Your Name  
-**Date**: YYYY-MM-DD
+**Author**: Stephen Singh 
+**Date**: 2025-06-25
 
