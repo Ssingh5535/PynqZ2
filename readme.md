@@ -187,11 +187,7 @@ If buttons and LEDs appear swapped, adjust channel numbers in code:
 
 ### 7.1. Block Diagram
 
-![Block Diagram](images/block_diagram.png)
-
-### 7.2. Constraints and Port Mapping
-
-![Constraints Snapshot](images/constraints.png)
+![Block Diagram](block_diagram.png)
 
 ---
 
