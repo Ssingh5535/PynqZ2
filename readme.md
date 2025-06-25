@@ -151,9 +151,9 @@ int main() {
 
 ## 5. Serial Terminal & Runtime Testing
 
-- Open a serial console at **115200 baud, 8 N 1** (e.g., PuTTY).
+- Open a serial console inside vitis or other at **115200 baud, 8 N 1** (e.g., PuTTY).
 - Reset or run the application in Vitis debugger.
-- You should see:
+- Should see what was on my terminal:
   ```
   GPIO loop started...
   BTN=0x1  SW0=1  LED=0x1
